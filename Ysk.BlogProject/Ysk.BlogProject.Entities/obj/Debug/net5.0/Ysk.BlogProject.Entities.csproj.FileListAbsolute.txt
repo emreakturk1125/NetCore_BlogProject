@@ -1,0 +1,11 @@
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.AssemblyInfo.cs
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\Ysk.BlogProject.Entities.deps.json
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\Ysk.BlogProject.Entities.dll
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\ref\Ysk.BlogProject.Entities.dll
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\Ysk.BlogProject.Entities.pdb
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.dll
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\ref\Ysk.BlogProject.Entities.dll
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.pdb
