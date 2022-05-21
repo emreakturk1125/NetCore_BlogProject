@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1aba868a-ac64-4640-bdbb-1471b02bc2ec": {
+      "ProjectGuid": "1aba868a-ac64-4640-bdbb-1471b02bc2ec",
+      "DisplayName": "Ysk.BlogProject",
+      "ColorIndex": 0
+    },
+    "e492fd81-0dec-438e-8563-a543ea9ee0e2": {
+      "ProjectGuid": "e492fd81-0dec-438e-8563-a543ea9ee0e2",
+      "DisplayName": "Ysk.BlogProject.Entities",
+      "ColorIndex": 1
+    },
+    "e12b7d8c-bbf8-49f4-bfa5-1cf9e8cd89b9": {
+      "ProjectGuid": "e12b7d8c-bbf8-49f4-bfa5-1cf9e8cd89b9",
+      "DisplayName": "Ysk.BlogProject.DataAccess",
+      "ColorIndex": 2
+    },
+    "5cf16a54-0a1f-43d4-970f-8ca19ac8085a": {
+      "ProjectGuid": "5cf16a54-0a1f-43d4-970f-8ca19ac8085a",
+      "DisplayName": "Ysk.BlogProject.Business",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

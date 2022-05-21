@@ -1,0 +1,5 @@
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Business\obj\Debug\net5.0\Ysk.BlogProject.Business.csproj.AssemblyReference.cache
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Business\obj\Debug\net5.0\Ysk.BlogProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Business\obj\Debug\net5.0\Ysk.BlogProject.Business.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Business\obj\Debug\net5.0\Ysk.BlogProject.Business.AssemblyInfo.cs
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Business\obj\Debug\net5.0\Ysk.BlogProject.Business.csproj.CoreCompileInputs.cache

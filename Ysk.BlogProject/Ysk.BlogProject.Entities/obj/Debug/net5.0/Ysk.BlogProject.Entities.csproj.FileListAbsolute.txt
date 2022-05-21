@@ -9,3 +9,4 @@ C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\n
 C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.dll
 C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\ref\Ysk.BlogProject.Entities.dll
 C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.pdb
+C:\Users\aktur\source\repos\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.csproj.AssemblyReference.cache
