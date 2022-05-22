@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMZ2HQ855MRL/BX8e4qvAYsaRdlgYA21pEx+5Pos9cZztUiVtDQk6Y3PwPdjo2SDusqQAZ8DHXb/Fzg8od01kA==",
+  "dgSpecHash": "e4/8Z0K4JqtmtM1cNknoK+t3/+f1/uipFWoDTk7uParQgNxHyc4lXA4sb7z0/yzGNzZxnxoJFHi54T2p1lCZGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aktur\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aktur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -2,7 +2,7 @@
 using Ysk.BlogProject.Business.Abstract;
 using Ysk.BlogProject.Business.Concrete;
 using Ysk.BlogProject.DataAccess.Abstract;
-using YSKProje.UdemyBlog.DataAccess.Concrete.EntityFrameworkCore.Repositories;
+using Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Repositories;
 
 namespace Ysk.BlogProject.Business.Containers.CustomIoC
 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wNVoXHkNlMhq0KbZNl3JGxXXnrq4g2TXxxqyH3xH5NwFbJI/nCMiF5uW8705pvxN4PHyV/pMyQuQNZC1sIlgQ==",
+  "dgSpecHash": "57OXpdLt/2nlH965I11GODJFkKkLgDLzE8UK17PWQN9wiNZbF3qaNjQSn8bZheecwcT5hTw6qoqnJvlJBgDErw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Business\\Ysk.BlogProject.Business.csproj",
+  "projectFilePath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Business\\Ysk.BlogProject.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aktur\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aktur\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

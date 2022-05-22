@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using Ysk.BlogProject.Entities.Concrete;
 
-namespace sk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Mapping
+namespace Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Mapping
 {
     public class BlogMap : IEntityTypeConfiguration<Blog>
     {

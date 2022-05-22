@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
-using System.Threading.Tasks;
-using YSKProje.UdemyBlog.DataAccess.Concrete.EntityFrameworkCore.Context;
-using Ysk.UdemyBlog.Entities.Concrete;
+using System.Threading.Tasks; 
 using Ysk.BlogProject.Entities.Abstract;
 using Microsoft.EntityFrameworkCore;
+using Ysk.BlogProject.DataAccess.Abstract;
+using Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Context;
 
-namespace YSKProje.UdemyBlog.DataAccess.Concrete.EntityFrameworkCore.Repositories
+namespace Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Repositories
 {
     public class EfGenericRepository<T> : IGenericDal<T> where T : class, ITable, new()
     {

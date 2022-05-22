@@ -23,29 +23,29 @@ namespace Ysk.BlogProject.Business.Concrete
             return await _genericDal.GetAllAsync(I => I.PostedTime);
         }
 
-        public async Task AddToCategoryAsync(CategoryBlogDto categoryBlogDto)
-        {
-            var control = await _categoryBlogService.GetAsync(I => I.CategoryId == categoryBlogDto.CategoryId && I.BlogId == categoryBlogDto.BlogId);
-            if (control == null)
-            {
-                await _categoryBlogService.AddAsync(new CategoryBlog
-                {
-                    BlogId = categoryBlogDto.BlogId,
-                    CategoryId = categoryBlogDto.CategoryId
-                });
-            }
+        //public async Task AddToCategoryAsync(CategoryBlogDto categoryBlogDto)
+        //{
+        //    var control = await _categoryBlogService.GetAsync(I => I.CategoryId == categoryBlogDto.CategoryId && I.BlogId == categoryBlogDto.BlogId);
+        //    if (control == null)
+        //    {
+        //        await _categoryBlogService.AddAsync(new CategoryBlog
+        //        {
+        //            BlogId = categoryBlogDto.BlogId,
+        //            CategoryId = categoryBlogDto.CategoryId
+        //        });
+        //    }
            
-        }
-        public async Task RemoveFromCategoryAsync(CategoryBlogDto categoryBlogDto)
-        {
-           var deletedCategoryBlog=  await  _categoryBlogService.GetAsync(I => I.CategoryId == categoryBlogDto.CategoryId && I.BlogId == categoryBlogDto.BlogId);
-            if (deletedCategoryBlog != null)
-            {
-                await _categoryBlogService.RemoveAsync(deletedCategoryBlog);
-            }
+        //}
+        //public async Task RemoveFromCategoryAsync(CategoryBlogDto categoryBlogDto)
+        //{
+        //   var deletedCategoryBlog=  await  _categoryBlogService.GetAsync(I => I.CategoryId == categoryBlogDto.CategoryId && I.BlogId == categoryBlogDto.BlogId);
+        //    if (deletedCategoryBlog != null)
+        //    {
+        //        await _categoryBlogService.RemoveAsync(deletedCategoryBlog);
+        //    }
           
            
-        }
+        //}
 
         public async Task<List<Blog>> GetAllByCategoryIdAsync(int categoryId)
         {

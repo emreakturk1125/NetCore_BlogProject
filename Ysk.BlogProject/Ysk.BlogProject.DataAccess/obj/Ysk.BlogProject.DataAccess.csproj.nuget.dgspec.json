@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj": {}
+    "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj": {
+    "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
         "projectName": "Ysk.BlogProject.DataAccess",
-        "projectPath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\Ysk.BlogProject.DataAccess.csproj",
         "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj": {
-                "projectPath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj"
+              "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj": {
+    "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj",
         "projectName": "Ysk.BlogProject.Entities",
-        "projectPath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\Ysk.BlogProject.Entities.csproj",
         "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aktur\\source\\repos\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\obj\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\NetCore_BlogProject\\Ysk.BlogProject\\Ysk.BlogProject.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

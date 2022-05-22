@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Ysk.UdemyBlog.Entities.Concrete;
-using Ysk.UdemyBlog.Entities.Concrete;
+using Ysk.BlogProject.DataAccess.Abstract;
+using Ysk.BlogProject.Entities.Concrete;
 
-namespace YSKProje.UdemyBlog.DataAccess.Concrete.EntityFrameworkCore.Repositories
+namespace Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Repositories
 {
-    //public class EfAppUserRepository : EfGenericRepository<AppUser>,IAppUserDal
-    //{
-    //}
+    public class EfAppUserRepository : EfGenericRepository<AppUser>, IAppUserDal
+    {
+    }
 }

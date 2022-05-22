@@ -1,23 +1,24 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Mapping;
 using Ysk.BlogProject.Entities.Concrete;
 
-namespace sk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Context
+namespace Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Context
 {
     public class BlogProjectContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=UdemyBlogTodo;Integrated Security=True");
+            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=BlogDB;Integrated Security=True");
         }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.ApplyConfiguration(new AppUserMap());
-        //    modelBuilder.ApplyConfiguration(new BlogMap());
-        //    modelBuilder.ApplyConfiguration(new CategoryMap());
-        //    modelBuilder.ApplyConfiguration(new CategoryBlogMap());
-        //    modelBuilder.ApplyConfiguration(new CommentMap());
-        //}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new AppUserMap());
+            modelBuilder.ApplyConfiguration(new BlogMap());
+            modelBuilder.ApplyConfiguration(new CategoryMap());
+            modelBuilder.ApplyConfiguration(new CategoryBlogMap());
+            modelBuilder.ApplyConfiguration(new CommentMap());
+        }
 
         public DbSet<AppUser> AppUsers { get; set; }
         public DbSet<Blog> Blogs { get; set; }
