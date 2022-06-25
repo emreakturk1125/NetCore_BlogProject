@@ -10,8 +10,8 @@ using Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Context;
 namespace Ysk.BlogProject.DataAccess.Migrations
 {
     [DbContext(typeof(BlogProjectContext))]
-    [Migration("20220521105329_emre")]
-    partial class emre
+    [Migration("20220522133753_Initial_Database")]
+    partial class Initial_Database
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

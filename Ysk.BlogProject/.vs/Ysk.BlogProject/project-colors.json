@@ -20,7 +20,22 @@
       "ProjectGuid": "5cf16a54-0a1f-43d4-970f-8ca19ac8085a",
       "DisplayName": "Ysk.BlogProject.Business",
       "ColorIndex": 3
+    },
+    "4a92550e-904c-433d-bee1-0198b4065564": {
+      "ProjectGuid": "4a92550e-904c-433d-bee1-0198b4065564",
+      "DisplayName": "Ysk.BlogProject.WebApi",
+      "ColorIndex": 4
+    },
+    "5eaa73a4-3bbf-4580-afda-c4809435d8dd": {
+      "ProjectGuid": "5eaa73a4-3bbf-4580-afda-c4809435d8dd",
+      "DisplayName": "Ysk.BlogProject.WebApi",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

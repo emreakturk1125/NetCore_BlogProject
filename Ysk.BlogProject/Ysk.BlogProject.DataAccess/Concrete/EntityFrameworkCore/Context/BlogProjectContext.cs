@@ -8,7 +8,7 @@ namespace Ysk.BlogProject.DataAccess.Concrete.EntityFrameworkCore.Context
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=BlogDB;Integrated Security=True");
+            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=BlogProjectDB;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -14,7 +14,6 @@ C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProj
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\Ysk.BlogProject.Entities.dll
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\ref\Ysk.BlogProject.Entities.dll
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\bin\Debug\net5.0\Ysk.BlogProject.Entities.pdb
-C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.csproj.AssemblyReference.cache
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.AssemblyInfoInputs.cache
 C:\Users\aktur\Documents\GitHub\NetCore_BlogProject\Ysk.BlogProject\Ysk.BlogProject.Entities\obj\Debug\net5.0\Ysk.BlogProject.Entities.AssemblyInfo.cs
